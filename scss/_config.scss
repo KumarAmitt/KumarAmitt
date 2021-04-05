@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+$accent-color: yellow;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+@mixin transition-ease {
+  transition: all 0.5s ease-in-out;
+}
+
+@mixin media-md {
+  @media screen and (min-width: 768px) {
+    @content
+  }
+}
+
+@mixin media-lg {
+  @media screen and (min-width: 1024px) {
+    @content
+  }
+}
+
+@mixin media-xl {
+  @media screen and (min-width: 1600px) {
+    @content
+  }
+}

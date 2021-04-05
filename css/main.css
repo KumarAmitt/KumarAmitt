@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(#1e4040), color-stop(#0a1616), to(#1e4040));
+  background: linear-gradient(#1e4040, #0a1616, #1e4040);
+  color: #fff;
+  height: 100vh;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.circle {
+  height: 10em;
+  width: 10em;
+  background-image: radial-gradient(#255954, #3a8c7d, #71d99e);
+  border-radius: 100%;
+  position: fixed;
+  top: 4em;
+  left: -2em;
+}
+
+.diamond {
+  border-style: solid;
+  border-color: transparent transparent #71d99e transparent;
+  border-width: 0 2.5em 2.5em 2.5em;
+  height: 0;
+  width: 5em;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  margin: 2em 0 5em 0;
+  position: fixed;
+  right: 20px;
+  bottom: 10px;
+  -webkit-transform: rotate(-25deg) scale(1.4);
+          transform: rotate(-25deg) scale(1.4);
+}
+
+.diamond::after {
+  content: "";
+  position: absolute;
+  top: 2.5em;
+  left: -2.5em;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: #71d99e transparent transparent transparent;
+  border-width: 7em 5em 0 5em;
+}
+
+.card {
+  background: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.7)));
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7));
+  -webkit-backdrop-filter: blur(20px);
+          backdrop-filter: blur(20px);
+  height: 100vh;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.text-secondary {
+  color: yellow;
+}
+
+header {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  padding: 1rem;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+}
+
+main .social-icons {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+}
+
+main .social-icons a {
+  display: inline-block;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+main .social-icons a img {
+  padding: 0.4rem;
+}
+
+main .social-icons a:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+footer {
+  font-size: 1rem;
+  position: fixed;
+  bottom: 0.4rem;
+  right: 1rem;
+  text-align: right;
+  padding: 1rem;
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */
