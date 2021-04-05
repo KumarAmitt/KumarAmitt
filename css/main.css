@@ -349,7 +349,8 @@
   overflow: hidden;
   background: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.7)));
   background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7));
-  padding: 1em 1.5em 2em;
+  padding: 1em 1.5em 7em;
+  position: relative;
 }
 
 .projects__item img {
@@ -374,6 +375,10 @@
   font-weight: 700;
 }
 
+.projects__item .stack:nth-child(2) {
+  margin-top: 0;
+}
+
 .projects__item .stack {
   padding: 0.2em 0.6em;
   margin-left: 0.4em;
@@ -382,12 +387,11 @@
   border-radius: 1em;
 }
 
-.projects__item .stack:nth-child(2) {
-  margin-top: 0;
-}
-
 .projects__item .desc {
   line-height: 1.4;
+  font-size: 0.9rem;
+  text-align: justify;
+  margin-top: 1.5em;
 }
 
 .projects__item .project-links {
@@ -395,20 +399,33 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
+  position: absolute;
+  bottom: 1.5em;
+  right: 1.5em;
+  left: 1.5em;
+  text-align: center;
 }
 
 .projects__item .project-link:nth-child(2) {
   margin-top: 0;
 }
 
+.projects__item .link:nth-child(2) {
+  margin-top: 0.8em;
+}
+
 .projects__item .link {
   color: #fff;
   font-size: 0.8rem;
   text-decoration: none;
-  padding: 0.5em 1em;
+  padding: 0.6em;
   text-transform: uppercase;
   font-weight: 700;
   border: 1px solid yellow;
