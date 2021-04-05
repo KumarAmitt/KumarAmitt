@@ -1,0 +1,107 @@
+.projects {
+  padding-bottom: 2rem;
+
+  &__bio-image {
+    height: 40vh;
+    width: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url("../assets/img/sr1.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+
+   .text-secondary {
+     font-size: 2rem;
+     margin-bottom: 2rem;
+   }
+  }
+
+
+  &__items{
+    width: 60vw;
+    margin: 2rem auto 0 auto;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-gap: 2rem;
+  }
+
+  &__item {
+    border-bottom: 5px solid $accent-color;
+    overflow: hidden;
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7));
+    padding: 1em 1.5em 2em;
+
+    img {
+      width: 100%;
+    }
+
+    .title {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+
+    .stacks {
+      font-size: 0.8rem;
+      margin-top: 0;
+      margin-bottom: 0.8em;
+      display: flex;
+      justify-content: flex-end;
+      font-weight: 700;
+    }
+
+    .stack:nth-child(2) {
+      margin-top: 0;
+    }
+
+    .stack {
+      padding: 0.2em 0.6em;
+      margin-left: 0.4em;
+      background-color: $accent-color;
+      color: #1e4040;
+      border-radius: 1em;
+    }
+
+    .desc {
+      line-height: 1.4;
+    }
+
+    .project-links {
+      margin-top: 1.5em;
+      display: flex;
+      justify-content: space-evenly;
+    }
+
+    .project-link:nth-child(2){
+      margin-top: 0;
+    }
+
+    .link {
+      color: #fff;
+      font-size: 0.8rem;
+      text-decoration: none;
+      padding: 0.5em 1em;
+      text-transform: uppercase;
+      font-weight: 700;
+      border: 1px solid yellow;
+    }
+
+    .link:hover {
+      background-color: $accent-color;
+      color: #1e4040;
+    }
+
+
+  }
+
+
+  .social-icons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer {
+    transform: rotate(90deg) translate(-3rem, -5rem);
+  }
+
+}
