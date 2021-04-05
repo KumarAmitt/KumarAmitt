@@ -6,6 +6,35 @@
   padding: 0;
 }
 
+.home {
+  height: 100%;
+  padding-top: 30vh;
+  overflow: hidden;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.home__name {
+  font-size: 4rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #fff;
+}
+
+.home__name--last {
+  color: yellow;
+  font-weight: 700;
+}
+
+.home .message {
+  margin-top: 2.5em;
+  text-transform: uppercase;
+  color: yellow;
+}
+
 body {
   background: -webkit-gradient(linear, left top, left bottom, from(#1e4040), color-stop(#0a1616), to(#1e4040));
   background: linear-gradient(#1e4040, #0a1616, #1e4040);
