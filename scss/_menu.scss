@@ -6,6 +6,7 @@
   height: 20px;
   width: 28px;
   cursor: pointer;
+
   @include transition-ease;
 
   &__burger {
@@ -15,7 +16,8 @@
     width: 28px;
     height: 3px;
     background: #fff;
-    @include  transition-ease;
+
+    @include transition-ease;
 
     &::before {
       content: '';
@@ -24,6 +26,7 @@
       width: 28px;
       height: 3px;
       background: #fff;
+
       @include transition-ease;
     }
 
@@ -34,6 +37,7 @@
       width: 20px;
       height: 3px;
       background: #fff;
+
       @include transition-ease;
     }
 
@@ -79,6 +83,7 @@
     list-style-type: none;
     padding-right: 1rem;
     transform: translateY(-100%);
+
     @include transition-ease;
 
     &.open {
@@ -87,6 +92,7 @@
 
     &__item {
       transform: translateX(100vw);
+
       @include transition-ease;
 
       & a {
@@ -110,6 +116,7 @@
       text-transform: uppercase;
       padding: 2rem 0;
       font-weight: 300;
+
       @include transition-ease;
 
       &:hover {

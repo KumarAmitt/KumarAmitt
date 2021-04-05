@@ -15,15 +15,13 @@
       &__item {
         display: inline;
         padding-right: 1.5rem;
-        }
+      }
 
       &__link {
         font-size: 1.5rem;
       }
     }
   }
-
-
 
   .about__bio {
     font-size: 1.5rem;
@@ -33,9 +31,11 @@
     &__bio-image {
       height: 40vh;
     }
+
     &__items {
       grid-template-columns: repeat(2, 1fr);
     }
+
     .text-secondary {
       font-size: 3rem;
     }
@@ -46,9 +46,7 @@
   }
 }
 
-
 @include media-lg {
-
   .contact__list {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -59,20 +57,3 @@
     height: 50vh;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

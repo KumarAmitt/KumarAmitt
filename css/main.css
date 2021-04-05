@@ -366,16 +366,16 @@
   font-weight: 700;
 }
 
-.projects__item .stack:nth-child(2) {
-  margin-top: 0;
-}
-
 .projects__item .stack {
   padding: 0.2em 0.6em;
   margin-left: 0.4em;
   background-color: yellow;
   color: #1e4040;
   border-radius: 1em;
+}
+
+.projects__item .stack:nth-child(2) {
+  margin-top: 0;
 }
 
 .projects__item .desc {
@@ -571,7 +571,9 @@ body {
   height: 100vh;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-weight: 400;
 }
 
