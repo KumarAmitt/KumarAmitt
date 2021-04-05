@@ -259,7 +259,6 @@
 }
 
 .about .skills__skill .logos {
-  background: rgba(255, 255, 255, 0.9);
   list-style-type: none;
   padding: 2em 0.5em;
   display: -ms-grid;
@@ -267,7 +266,7 @@
   -ms-grid-columns: 1fr 1fr 1fr;
       grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 0.6em;
-  grid-row-gap: 1em;
+  grid-row-gap: 2em;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -280,6 +279,15 @@
 
 .about .skills__skill .logo {
   width: 60px;
+  background: #fff;
+  padding: 0.5em;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.about .skills__skill .logo:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
 }
 
 .about .social-icons {
