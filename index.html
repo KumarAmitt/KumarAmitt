@@ -1,11 +1,59 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="./stylesheets/main.css">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Amit Kumar</title>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-<h1>Hello</h1>
+
+<div class="background">
+    <div class="circle"></div>
+    <div class="diamond"></div>
+</div>
+
+<div class="card">
+    <header>
+        <div class="menu-btn">
+            <span class="menu-btn__burger"></span>
+            <nav class="nav">
+                <ul class="menu-nav menu-nav__home">
+                    <li class="menu-nav__item active"><a href="index.html" class="menu-nav__link">Home</a></li>
+                    <li class="menu-nav__item"><a href="about.html" class="menu-nav__link">About Me</a></li>
+                    <li class="menu-nav__item"><a href="projects.html" class="menu-nav__link">My Projects</a></li>
+                    <li class="menu-nav__item">
+                        <a href="https://docs.google.com/document/d/15XZDXMfu76gBz3fzszCf1pj-Fn21rHwkUH-ueFCRrYE/edit" class="menu-nav__link">Resume</a>
+                    </li>
+                    <li class="menu-nav__item"><a href="contact.html" class="menu-nav__link">Contact Me</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="home">
+            <h2 class="greetings">Hi! My name is</h2>
+            <h1 class="home__name">Amit <span class="home__name--last">Kumar</span> </h1>
+            <h2>Full Stack Ruby on Rails Developer</h2>
+            <h2 class="message">Glad to see you</h2>
+
+            <div class="social-icons">
+                <a href="https://github.com/KumarAmitt"><img src="assets/icons/github-fill.svg" alt="GitHub"></a>
+                <a href="https://www.linkedin.com/in/kumar-amitt"><img src="assets/icons/linkedin-fill.svg" alt="LinkedIn"></a>
+                <a href="https://twitter.com/ArrshAmitt"><img src="assets/icons/twitter-fill.svg" alt="Twitter"></a>
+                <a href="mailto: amitt2015@outlook.com"><img src="assets/icons/mail-fill.svg" alt="Email"></a>
+            </div>
+
+            <footer>&copy; Amit Kumar 2021</footer>
+        </section>
+    </main>
+</div>
+
+<script src="js/main.js"></script>
+
+
 </body>
 </html>
