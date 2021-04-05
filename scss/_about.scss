@@ -62,6 +62,7 @@
         width: 60px;
         background: #fff;
         padding: 0.5em;
+
         @include transition-ease;
 
         &:hover {
