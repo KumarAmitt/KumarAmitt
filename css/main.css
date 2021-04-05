@@ -35,6 +35,103 @@
   color: yellow;
 }
 
+.about {
+  padding-bottom: 2rem;
+}
+
+.about__bio-image {
+  height: 50vh;
+  width: 100%;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.9)), to(rgba(0, 0, 0, 0.4))), url("../assets/img/sc1.png");
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url("../assets/img/sc1.png");
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.about__bio-image p {
+  margin-bottom: 2rem;
+}
+
+.about__bio {
+  width: 80%;
+  text-align: center;
+}
+
+.about__bio .text-secondary {
+  padding-bottom: 1rem;
+}
+
+.about .skills {
+  width: 60vw;
+  margin: 2rem auto 0 auto;
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-gap: 2rem;
+}
+
+.about .skills__skill {
+  background: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.7)));
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7));
+  padding: 1em;
+  border-bottom: 5px solid yellow;
+}
+
+.about .skills__skill h2 {
+  margin-bottom: 1em;
+}
+
+.about .skills__skill .logos {
+  background: rgba(255, 255, 255, 0.9);
+  list-style-type: none;
+  padding: 2em 0.5em;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 0.6em;
+  grid-row-gap: 1em;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-items: center;
+}
+
+.about .skills__skill .logos > li:not(:first-child) {
+  margin-top: 0;
+}
+
+.about .skills__skill .logo {
+  width: 60px;
+}
+
+.about .social-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.about footer {
+  -webkit-transform: rotate(90deg) translate(-3rem, -5rem);
+          transform: rotate(90deg) translate(-3rem, -5rem);
+}
+
 body {
   background: -webkit-gradient(linear, left top, left bottom, from(#1e4040), color-stop(#0a1616), to(#1e4040));
   background: linear-gradient(#1e4040, #0a1616, #1e4040);
