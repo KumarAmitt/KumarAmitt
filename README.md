@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">Full Stack Ruby on Rails developer</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramitt&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramitt" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramitt&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramitt" /> </p>
 
 <br />
 
@@ -47,7 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&layout=compact&theme=merko" alt="kumaramitt" /></p>
 
-
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/></p>
 
