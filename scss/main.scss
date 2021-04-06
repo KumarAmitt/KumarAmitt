@@ -1,17 +1,17 @@
-@import 'config';
-@import 'home';
-@import 'menu';
-@import 'about';
-@import 'projects';
-@import 'contact';
-@import 'responsive';
+@import "config";
+@import "home";
+@import "menu";
+@import "about";
+@import "projects";
+@import "contact";
+@import "responsive";
 
 body {
   background: linear-gradient(#1e4040, #0a1616, #1e4040);
   color: #fff;
   height: 100vh;
   line-height: 1;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .circle {
@@ -51,7 +51,11 @@ body {
 }
 
 .card {
-  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7));
+  background: linear-gradient(
+    to bottom right,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.7)
+  );
   backdrop-filter: blur(20px);
   height: 100vh;
 }
