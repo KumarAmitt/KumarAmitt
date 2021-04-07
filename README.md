@@ -5,14 +5,13 @@
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaramitt" alt="kumaramitt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaramitt&row=1&theme=monokai" alt="kumaramitt" /></a> </p>
 
 <br />
 
-<p align="left">
+<!-- <p align="left">
  <a href="https://twitter.com/arrshamitt" target="blank"><img src="https://img.shields.io/twitter/follow/arrshamitt?logo=twitter&style=for-the-badge" alt="arrshamitt" /></a>
-</p>
-
+</p> -->
 
 <br />
 
@@ -52,4 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko" alt="kumaramitt" /></p>
-
