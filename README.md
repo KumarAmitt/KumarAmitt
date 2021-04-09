@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arrshamitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arrshamitt" height="30" width="40" style="background-color: #fff; padding: 5px"/></a>
-<a href="https://linkedin.com/in/kumar-amitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kumar-amitt" height="30" width="40" style="background-color: #fff; padding: 5px" /></a>
+<a href="https://twitter.com/arrshamitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arrshamitt" height="30" width="40" style="background-color: #1E90FF; padding: 5px"/></a>
+<a href="https://linkedin.com/in/kumar-amitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kumar-amitt" height="30" width="40" style="background-color: #1E90FF; padding: 5px" /></a>
 </p>
 
 <br />
