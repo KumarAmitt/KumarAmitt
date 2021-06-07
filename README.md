@@ -42,17 +42,7 @@
 
 <br/>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko" alt="kumaramitt" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt" /></p> -->
-
-[stat]: https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko
-[streak]: https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko
-[language]: https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko
-
-<table>
+<table align="center">
   <tr>
     <td class="stat">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/>
@@ -69,9 +59,7 @@
 </table>
 
 <style>
-
-.lang {
-  border: 2px solid red;
-}
-
+  td {
+    border: 1px solid #ccc;
+  }
 </style>
