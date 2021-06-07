@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramitt&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramitt" /> </p>
-
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramitt&label=Profile%20views&color=brightgreen&style=flat-square" alt="kumaramitt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaramitt&row=1&theme=monokai" alt="kumaramitt" /></a> </p>
 
 <br />
 
-<!-- <p align="left">
- <a href="https://twitter.com/arrshamitt" target="blank"><img src="https://img.shields.io/twitter/follow/arrshamitt?logo=twitter&style=for-the-badge" alt="arrshamitt" /></a>
-</p> -->
-
-<br />
-
 ### Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/arrshamitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arrshamitt" height="30" width="40" style="background-color: #1E90FF; padding: 5px"/></a>
-<a href="https://linkedin.com/in/kumar-amitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kumar-amitt" height="30" width="40" style="background-color: #1E90FF; padding: 5px" /></a>
-</p>
+<tr>
+<td> <a href="https://twitter.com/arrshamitt" target="blank"><img src="https://img.shields.io/twitter/follow/arrshamitt?logo=twitter&color=blue&style=for-the-badge&labelColor=fff770" alt="arrshamitt" /></a> </td>
+
+<td> <a href="https://www.linkedin.com/in/kumar-Amitt/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=informational&label=connect&labelColor=fff770" /></a></td>
+</tr>
+
+<br />
 
 <br />
 
