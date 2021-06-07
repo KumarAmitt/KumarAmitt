@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">Full Stack Ruby on Rails developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramitt&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramitt" /> </p>
 
@@ -15,13 +15,8 @@
 
 <br />
 
-- 🌱 I’m currently learning **JavaScript**
+### Connect with me:
 
-- 💬 Ask me about **Ruby on Rails, Ruby, HTML/CSS**
-
-- 📄See my Portfolio [https://kumaramitt.github.io/KumarAmitt/](https://kumaramitt.github.io/KumarAmitt/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arrshamitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arrshamitt" height="30" width="40" style="background-color: #1E90FF; padding: 5px"/></a>
 <a href="https://linkedin.com/in/kumar-amitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kumar-amitt" height="30" width="40" style="background-color: #1E90FF; padding: 5px" /></a>
@@ -29,7 +24,8 @@
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
+
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> 
@@ -46,8 +42,36 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko" alt="kumaramitt" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt" /></p> -->
+
+[stat]: https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko
+[streak]: https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko
+[language]: https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko
+
+<table>
+  <tr>
+    <td class="stat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/>
+    </td>
+    <td rowspan=2 class="lang">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt" />
+    </td>
+  </tr>
+  <tr>
+    <td class="streak">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko" alt="kumaramitt"/>
+    </td>
+  </tr>
+</table>
+
+<style>
+
+.lang {
+  border: 2px solid red;
+}
+
+</style>
