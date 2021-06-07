@@ -44,22 +44,16 @@
 
 <table align="center">
   <tr>
-    <td class="stat">
+    <td class="stat" style="border: 1px solid #90b302">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt"/>
     </td>
-    <td rowspan=2 class="lang">
+    <td rowspan=2 class="lang" style="border: 1px solid #90b302">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramitt&show_icons=true&locale=en&theme=merko" alt="kumaramitt" />
     </td>
   </tr>
   <tr>
-    <td class="streak">
+    <td class="streak" style="border: 1px solid #90b302">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramitt&theme=merko" alt="kumaramitt"/>
     </td>
   </tr>
 </table>
-
-<style>
-  td {
-    border: 1px solid #ccc;
-  }
-</style>
