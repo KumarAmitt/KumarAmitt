@@ -53,7 +53,7 @@
 [gitl]: https://img.shields.io/badge/-git-f34c37
 [herokul]: https://img.shields.io/badge/-Heroku-79589f
 [netlifyl]: https://img.shields.io/badge/-Netlify-1e7589
-[webpl]: https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg
+[webpl]: https://img.shields.io/badge/-Webpack-1c74ba
 
 ### Languages and Tools I worked with
 
