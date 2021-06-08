@@ -58,7 +58,7 @@
 | [![scssl]][scss]   | [SCSS][scss]     | [![mtzl]][mtz]     | [Materialize][mtz]   |                    |                  |
 | [![jsl]][js]       | [JavaScript][js] | [![reactl]][react] | [React][react]       | [![jestl]][jest]   | [Jest][jest]     |
 | [![rubyl]][ruby]   | [Ruby][ruby]     | [![rorl]][ror]     | [Ruby on Rails][ror] | [![rspecl]][rspec] | [RSpec][rspec]   |
-|                    |                  |                    |                      |                    |                  |
+|                    |
 | [![mysqll]][mysql] | [MySQL][mysql]   | [![pgl]][pg]       | [PostgreSQL][pg]     | [![sqlitel]][pg]   | [SQLite][sqlite] |
 |                    |                  |                    |                      |                    |                  |
 
