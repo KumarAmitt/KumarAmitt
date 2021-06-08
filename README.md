@@ -55,7 +55,7 @@
 [netlifyl]: https://img.shields.io/badge/-Netlify-1e7589
 [webpl]: https://img.shields.io/badge/-Webpack-1c74ba
 
-### Languages and Tools I worked with
+### Languages and Tools I worked with:
 
 | Lang.              | View docs            | FRM                    | View docs            | Test FW            | View docs        |
 | ------------------ | -------------------- | ---------------------- | -------------------- | ------------------ | ---------------- |
@@ -67,8 +67,6 @@
 |                    |                      |                        |                      |                    |                  |
 | [![mysqll]][mysql] | [MySQL][mysql]       | [![pgl]][pg]           | [PostgreSQL][pg]     | [![sqlitel]][pg]   | [SQLite][sqlite] |
 | [![gitl]][git]     | [![herokul]][heroku] | [![netlifyl]][netlify] | [![webpl]][webp]     |                    |                  |
-
-### Live Stats:
 
 <br/>
 
