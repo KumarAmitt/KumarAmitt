@@ -28,12 +28,12 @@
 [bs]: https://getbootstrap.com
 [mtz]: https://materializecss.com/
 [jest]: https://jestjs.io
+[rspec]: https://rspec.info/
 [mysql]: https://www.mysql.com/
 [pg]: https://www.postgresql.org
 [sqlite]: https://www.sqlite.org/
 [git]: https://git-scm.com/
 [heroku]: https://heroku.com
-[linux]: https://www.linux.org/
 [htmll]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
 [cssl]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
 [scssl]: https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg
@@ -43,22 +43,24 @@
 [rorl]: https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg
 [bsl]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
 [mtzl]: https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg
-[jestl]: https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg
 [mysqll]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
 [pgl]: https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg
-[sqlitel]: https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg
-[gitl]: https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
-[herokul]: https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg
-[linuxl]: https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+[jestl]: https://img.shields.io/badge/-JEST-99425b
+[rspecl]: https://img.shields.io/badge/-RSpec-f2526b
+[sqlitel]: https://img.shields.io/badge/-SQLite-033a56
 
 ### Languages and Tools I worked with
 
-| Logo             | View docs        | Logo               | View docs            |
-| ---------------- | ---------------- | ------------------ | -------------------- |
-| [![htmll]][html] | [HTML][html]     |                    |                      |
-| [![cssl]][css]   | [CSS][css]       | [![bsl]][bs]       | [Bootstrap][bs]      |
-| [![jsl]][js]     | [JavaScript][js] | [![reactl]][react] | [React][react]       |
-| [![rubyl]][ruby] | [Ruby][ruby]     | [![rorl]][ror]     | [Ruby on Rails][ror] |
+| Lang.              | View docs        | FRM                | View docs            | Test               | View docs        |
+| ------------------ | ---------------- | ------------------ | -------------------- | ------------------ | ---------------- |
+| [![htmll]][html]   | [HTML][html]     |                    |                      |                    |                  |
+| [![cssl]][css]     | [CSS][css]       | [![bsl]][bs]       | [Bootstrap][bs]      |                    |                  |
+| [![scssl]][scss]   | [SCSS][scss]     | [![mtzl]][mtz]     | [Materialize][mtz]   |                    |                  |
+| [![jsl]][js]       | [JavaScript][js] | [![reactl]][react] | [React][react]       | [![jestl]][jest]   | [Jest][jest]     |
+| [![rubyl]][ruby]   | [Ruby][ruby]     | [![rorl]][ror]     | [Ruby on Rails][ror] | [![rspecl]][rspec] | [RSpec][rspec]   |
+|                    |                  |                    |                      |                    |                  |
+| [![mysqll]][mysql] | [MySQL][mysql]   | [![pgl]][pg]       | [PostgreSQL][pg]     | [![sqlitel]][pg]   | [SQLite][sqlite] |
+|                    |                  |                    |                      |                    |                  |
 
 <!-- <p align="left">
 <a href="https://getbootstrap.com" target="_blank">
