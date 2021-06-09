@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramitt&label=Profile%20views&color=brightgreen&style=flat-square" alt="kumaramitt" /> </p>
 
