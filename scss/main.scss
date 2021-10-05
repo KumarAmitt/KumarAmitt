@@ -7,12 +7,16 @@
 @import "responsive";
 
 body {
-  background: linear-gradient(#1e4040, #0a1616, #1e4040);
+  // background: linear-gradient(#1e4040, #0a1616, #1e4040);
+  background: linear-gradient(to right, #4568dc, #b06ab3);
   color: #fff;
   height: 100vh;
   line-height: 1;
   font-family: "Montserrat", sans-serif;
 }
+
+
+
 
 .circle {
   height: 10em;

@@ -129,8 +129,8 @@
           justify-content: center;
   height: 100vh;
   overflow: hidden;
-  background: -webkit-gradient(linear, left top, right bottom, from(#1e4040), color-stop(#0a1616), to(#1e4040));
-  background: linear-gradient(to bottom right, #1e4040, #0a1616, #1e4040);
+  background: -webkit-gradient(linear, left top, right bottom, from(#4568dc), to(#b06ab3));
+  background: linear-gradient(to bottom right, #4568dc, #b06ab3);
   list-style-type: none;
   padding-right: 1rem;
   -webkit-transform: translateY(-100%);
@@ -466,8 +466,8 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left top, left bottom, from(#1e4040), color-stop(#0a1616), to(#1e4040));
-  background: linear-gradient(#1e4040, #0a1616, #1e4040);
+  background: -webkit-gradient(linear, left top, right bottom, from(#4568dc), to(#b06ab3));
+  background: linear-gradient(to bottom right, #4568dc, #b06ab3);
 }
 
 .contact h2 {
@@ -546,12 +546,12 @@
 }
 
 body {
-  background: -webkit-gradient(linear, left top, left bottom, from(#1e4040), color-stop(#0a1616), to(#1e4040));
-  background: linear-gradient(#1e4040, #0a1616, #1e4040);
+  background: -webkit-gradient(linear, left top, right top, from(#4568dc), to(#b06ab3));
+  background: linear-gradient(to right, #4568dc, #b06ab3);
   color: #fff;
   height: 100vh;
   line-height: 1;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .circle {
